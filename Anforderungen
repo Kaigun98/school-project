@@ -1,0 +1,34 @@
+Projektbezeichnung: Schuleprojekt
+Projektleiter: Sören Max, Leon Vielmäder
+Erstellt am 16.02.'17
+Zuletzt geändert am: 23.02.'17
+Änderungsverzeichnis: 
+
+Einleitung
+
+Ausgangssituation und Zielsetzung
+
+Ausgangssituation:
+-Anlass zur Durchführung des Projekts ist ein Schuleprojekt welches in C oder C++ geschrieben werden muss und auf
+dem Raspberry PI laufen soll
+
+Beteiligte:
+-Sören Man (Programmierung)
+-Leon Vielmäder (V-Modell, Dokumentation)
+System und Systemeigenschaften:
+-Windows
+-Windows MS Visual Studio
+-Raspbian
+-QT-Creator
+-Raspberry PI 3 Model B
+
+Funktionale Anforderungen:
+Es soll ein flüssiges Piano Spiel ermöglichen, mit Tönen erzeugt aus dem reservoir des Raspberry PI
+Ebenfalls ist eine UI geplant welches gespielte Tasten auf der Klaviatur visuell darstellt
+
+Lieferumfang:
+Liefertermin-31.03.'17
+Empfänger-Ernst
+
+Abnahmekriterien
+
