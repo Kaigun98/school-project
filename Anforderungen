@@ -1,7 +1,7 @@
-Projektbezeichnung: Schuleprojekt
+Projektbezeichnung: Schulprojekt
 Projektleiter: Sören Max, Leon Vielmäder
 Erstellt am 16.02.'17
-Zuletzt geändert am: 23.02.'17
+Zuletzt geändert am: 08.03.'17
 Änderungsverzeichnis: 
 
 Einleitung
@@ -16,10 +16,9 @@ Beteiligte:
 -Sören Man (Programmierung)
 -Leon Vielmäder (V-Modell, Dokumentation)
 System und Systemeigenschaften:
--Windows
--Windows MS Visual Studio
--Raspbian
+-Ubuntu Mate 16.04 LTS
 -QT-Creator
+-QT-Multimedia Library
 -Raspberry PI 3 Model B
 
 Funktionale Anforderungen:
