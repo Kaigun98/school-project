@@ -9,21 +9,22 @@ Einleitung
 Ausgangssituation und Zielsetzung
 
 Ausgangssituation:
--Anlass zur Durchführung des Projekts ist ein Schuleprojekt welches in C oder C++ geschrieben werden muss und auf
-dem Raspberry PI laufen soll
+-Anlass zur Durchführung des Projekts ist ein Schulprojekt, welches in C oder C++ geschrieben werden muss und auf
+dem Raspberry PI laufen soll.
 
 Beteiligte:
 -Sören Max (Programmierung)
 -Leon Vielmäder (V-Modell, Dokumentation)
+
 System und Systemeigenschaften:
--Ubuntu Mate 16.04 LTS
+-Raspbian
 -QT-Creator
 -QT-Multimedia Library
 -Raspberry PI 3 Model B
 
 Funktionale Anforderungen:
 Es soll ein flüssiges Piano Spiel ermöglichen, mit Tönen erzeugt aus dem reservoir des Raspberry PI
-Ebenfalls ist eine UI geplant welches gespielte Tasten auf der Klaviatur visuell darstellt
+Ebenfalls ist ein UI geplant, welches gespielte Tasten auf der Klaviatur visuell darstellt.
 
 Lieferumfang:
 Liefertermin-31.03.'17
